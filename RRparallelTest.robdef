@@ -1,0 +1,7 @@
+service edu.rpi.paralleltest
+
+option version 0.8
+
+object parallelTestServ
+    function double getTestVal()
+end object
